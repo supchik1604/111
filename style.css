@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(11, 11, 15, 1);
+}
+
+.header{
+    width: 100%;
+    height: 907px;
+}
+
+.header_content{
+    width: 780px ;
+    height: 373px;
+}
+
+.header_content_title{
+    font-family: inter;
+    color: white;
+    width: 780px;
+    height: 221px;
+    font-size: 85px;
+}
+
